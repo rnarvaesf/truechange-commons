@@ -1,0 +1,4 @@
+br\com\truechange\dto\AccreditationTerm.class
+br\com\truechange\utils\Http.class
+br\com\truechange\http\HttpGet.class
+br\com\truechange\http\impl\HttpGet.class
